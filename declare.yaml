@@ -1,4 +1,4 @@
-apiVersion: ciena.io/gitops
+apiVersion: ciena.io/gitops.v1
 kind: trial
 metadata:
     name: my-trial
@@ -6,4 +6,4 @@ metadata:
         real: false
 spec:
     workload: ok
-    changed: 2
+    changed: 3
