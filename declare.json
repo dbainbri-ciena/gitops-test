@@ -1,0 +1,14 @@
+{
+  "apiVersion": "ciena.io/gitops.j1",
+  "kind": "json-trial",
+  "metadata": {
+    "name": "my-trial",
+    "labels": {
+      "real": false
+    }
+  },
+  "spec": {
+    "workload": "ok",
+    "changed": 3
+  }
+}
