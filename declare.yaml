@@ -6,4 +6,4 @@ metadata:
         real: false
 spec:
     workload: ok
-    changed: true
+    changed: 2
