@@ -1,0 +1,8 @@
+apiVersion: ciena.io/gitops
+kind: trial
+metadata:
+    name: my-trial
+    labels:
+        real: false
+spec:
+    workload: ok
