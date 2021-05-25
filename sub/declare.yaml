@@ -1,9 +1,9 @@
 apiVersion: ciena.io/gitops.v2
-kind: trial-5
+kind: trial-6
 metadata:
     name: my-trial
     labels:
         real: false
 spec:
     workload: ok
-    changed: 3
+    changed: 4
