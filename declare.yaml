@@ -4,6 +4,7 @@ metadata:
     name: my-trial
     labels:
         real: false
+        hello: world
 spec:
     workload: ok
     changed: 3
